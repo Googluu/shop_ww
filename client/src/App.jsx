@@ -5,6 +5,7 @@ import {
 } from "react-router-dom";
 import { Home, Products, Product } from "./pages";
 import { Footer, Navbar } from './components';
+import './App.scss';
 
 const Layout = () => {
   return (
